@@ -1,5 +1,5 @@
 # [Handwritten One-time Password Authentication System Based On Deep Learning](http://kiss.kstudy.com/thesis/thesis-view.asp?key=3660839)
-*Original paper: [pdf](./paper/Handwritten One-time Password Authentication System Based On Deep Learning_Zhun Li et.al.pdf)*
+*Original paper: [pdf](./paper/HandwrittenOPT_ZhunLi.pdf)*
 
 This is a demostration of handwritten one-time password authentification system on Python 3, Keras, and TensorFlow. 
 The original paper has been published in JICS journal.
