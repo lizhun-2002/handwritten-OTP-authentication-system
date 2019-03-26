@@ -10,7 +10,7 @@ We propose a handwritten one-time password authentication system which employs d
 Python 3.5.5, TensorFlow 1.2.1, and Keras 2.0.6
 
 ## Data
-we proposed the first known application of the second edition of NIST Special Database 19 (SD19) in a writer verification task.
+We proposed the first known application of the second edition of NIST Special Database 19 (SD19) in a writer verification task.
 Download the data from [here](https://www.nist.gov/srd/nist-special-database-19)
 
 ## Handwriting recognition
